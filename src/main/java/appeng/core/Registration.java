@@ -114,7 +114,7 @@ import appeng.tile.AEBaseTile;
 import appeng.tile.crafting.MolecularAssemblerRenderer;
 import appeng.worldgen.ChargedQuartzOreConfig;
 import appeng.worldgen.ChargedQuartzOreFeature;
-import appeng.worldgen.MeteoriteStructure;
+import appeng.worldgen.meteorite.MeteoriteStructure;
 
 final class Registration {
 

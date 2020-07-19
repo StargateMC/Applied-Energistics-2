@@ -56,8 +56,8 @@ import appeng.util.Platform;
 public final class AEConfig extends Configuration implements IConfigurableObject, IConfigManagerHost
 {
 
-	public static final String VERSION = "@version@";
-	public static final String CHANNEL = "@aechannel@";
+	public static final String VERSION = "7";
+	public static final String CHANNEL = "stable";
 	public static final String PACKET_CHANNEL = "AE";
 
 	// Config instance
